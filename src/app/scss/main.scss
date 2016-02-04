@@ -1,0 +1,9 @@
+@import '_variables';
+
+ul.todo-list{
+  list-style-type:none;
+
+  li{
+    color:$primary-color;
+  }
+}
